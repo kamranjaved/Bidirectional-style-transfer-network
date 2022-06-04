@@ -1,4 +1,4 @@
-# Cross-modal-facial-image-synthBidirectional-style-transfer-network
+# Bidirectional-style-transfer-network
 Cross modal facial image synthesis using a collaborative bidirectional style transfer network
 
 
