@@ -1,5 +1,5 @@
-# Bidirectional-style-transfer-network
-Cross modal facial image synthesis using a collaborative bidirectional style transfer network
+
+# Cross modal facial image synthesis using a collaborative bidirectional style transfer network
 
 
 NIZAM UD DIN1, SEHO BAE
