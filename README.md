@@ -25,4 +25,4 @@ we have created a dataset for color coded segmentation map and their correspondi
 
 To achieve this, we use the model trained for the photo ⇄ segmentation synthesis task. We translate all photos from the CUFS dataset into segmentation map and use those synthesized segmentation maps along with the corresponding sketches as paired segmentation/sketch samples 
 
-(Place Figure 6 of our paper here). 
+![image](https://user-images.githubusercontent.com/27881319/172046393-5b76741a-0191-4e3d-906e-bf2565186f49.png)
