@@ -15,18 +15,13 @@ The goal of this research is to synthesize realistic cross modal face images whi
 
 
 
-# Testing
-For testing on your own images
+For the task of segmentation ⇄ photo synthesis,
 
--Please place your test images at following path /dataset/test
+we use the CelebAMask-HQ dataset. We use the photo/sketch paired CUFS dataset for photo ⇄ sketch synthesis task.  
+For sketch ⇄ segmentation synthesis task,
 
--Run test.py
+we have created a dataset for color coded segmentation map and their corresponding sketches using the publicly available photo/sketch paired dataset (CUFS). 
 
-# Training
-Download dataset from this 🔗 
+To achieve this, we use the model trained for the photo ⇄ segmentation synthesis task. We translate all photos from the CUFS dataset into segmentation map and use those synthesized segmentation maps along with the corresponding sketches as paired segmentation/sketch samples 
 
-For training on your dataset
-
--Please place your training images at following path /dataset/train
-
--Run train.py
+(Place Figure 6 of our paper here). 
