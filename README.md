@@ -15,14 +15,14 @@ The goal of this research is to synthesize realistic cross modal face images whi
 
 
 
-#Testing
+# Testing
 For testing on your own images
 
 -Please place your test images at following path /dataset/test
 
 -Run test.py
 
-#Training
+# Training
 For training on your dataset
 
 -Please place your training images at following path /dataset/train
