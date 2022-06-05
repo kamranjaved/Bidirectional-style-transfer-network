@@ -23,6 +23,8 @@ For testing on your own images
 -Run test.py
 
 # Training
+Download dataset from this 🔗 
+
 For training on your dataset
 
 -Please place your training images at following path /dataset/train
