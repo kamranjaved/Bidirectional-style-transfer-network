@@ -2,7 +2,7 @@
 # Cross modal facial image synthesis using a collaborative bidirectional style transfer network
 
 
-NIZAM UD DIN1, SEHO BAE
+NIZAM UD DIN, SEHO BAE
 , KAMRAN JAVED
 , AND JUNEHO YI
 
