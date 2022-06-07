@@ -13,11 +13,11 @@ The goal of this research is to synthesize realistic cross modal face images whi
 
 ![image](https://user-images.githubusercontent.com/27881319/171996834-788745d9-def8-4c90-8e4a-a100b9808ba9.png)
 
-[CUFS](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html)
+
 
 For the task of segmentation ⇄ photo synthesis:
 
-we use the CelebAMask-HQ dataset. We use the photo/sketch paired [CUFS](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) dataset for photo ⇄ sketch synthesis task.
+we use the [CelebAMask-HQ](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) dataset. We use the photo/sketch paired [CUFS](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) dataset for photo ⇄ sketch synthesis task.
 
 For sketch ⇄ segmentation synthesis task:
 
