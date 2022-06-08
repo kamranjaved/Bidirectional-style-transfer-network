@@ -17,11 +17,11 @@ The goal of this research is to synthesize realistic cross modal face images whi
 
 For the task of segmentation ⇄ photo synthesis:
 
-we use the [CelebAMask-HQ](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) dataset. We use the photo/sketch paired [CUFS](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) dataset for photo ⇄ sketch synthesis task.
+We use the [CelebAMask-HQ](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) dataset. We use the photo/sketch paired [CUFS](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) dataset for photo ⇄ sketch synthesis task.
 
 For sketch ⇄ segmentation synthesis task:
 
-we have created a dataset for color coded segmentation map and their corresponding sketches using the publicly available photo/sketch paired dataset ([CUFS](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html)). 
+We have created a dataset for color coded segmentation map and their corresponding sketches using the publicly available photo/sketch paired dataset ([CUFS](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html)). 
 
 To achieve this, we use the model trained for the photo ⇄ segmentation synthesis task. We translate all photos from the [CUFS](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) dataset into segmentation map and use those synthesized segmentation maps along with the corresponding sketches as paired segmentation/sketch samples 
 
