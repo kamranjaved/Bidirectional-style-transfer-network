@@ -26,3 +26,6 @@ We have created a dataset for color coded segmentation map and their correspondi
 To achieve this, we use the model trained for the photo ⇄ segmentation synthesis task. We translate all photos from the [CUFS](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html) dataset into segmentation map and use those synthesized segmentation maps along with the corresponding sketches as paired segmentation/sketch samples 
 
 ![image](https://user-images.githubusercontent.com/27881319/172046393-5b76741a-0191-4e3d-906e-bf2565186f49.png)
+
+#Dataset
+Please download dataset from this [Link] (https://drive.google.com/file/d/1hREPCOkFuxKd0svRsFgH-gb5XSSBT0Qv/view?usp=sharing)
