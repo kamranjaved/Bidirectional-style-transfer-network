@@ -32,4 +32,4 @@ To achieve this, we use the model trained for the photo ⇄ segmentation synthes
 The dataset contains color coded segmentation map and the their corresponding sketch images.
 We used this  dataset to train sketch ⇄ segmentation synthesis
 task in a supervised manner.
-Please download dataset from this [Link](https://drive.google.com/file/d/1hREPCOkFuxKd0svRsFgH-gb5XSSBT0Qv/view?usp=sharing)
+Please download dataset from this [Link.](https://drive.google.com/file/d/1hREPCOkFuxKd0svRsFgH-gb5XSSBT0Qv/view?usp=sharing)
